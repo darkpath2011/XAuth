@@ -48,8 +48,8 @@ XAuth 是一个跨站式登录注册系统，您可以在任何网站上使用�
     }
     ```
 
-## 流程图
-![流程图](/radimage/image.png "flow chart")
+## 流程
+![流程](/radimage/image.png "flow chart")
 
 ### 注意
 <font color=red>本项目为实验性项目，存在多项安全性问题，仅供参考使用。使用本项目的原始代码上线后如发生任何问题，本项目概不负责。</font>
